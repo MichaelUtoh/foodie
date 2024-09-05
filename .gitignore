@@ -1,0 +1,8 @@
+__pycache__
+env
+*.sqlite3
+.coverage
+.env
+htmlcov
+
+note.txt
